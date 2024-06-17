@@ -1,3 +1,5 @@
+'use client'
+
 import React, {useEffect, useState} from "react";
 import {SwitchProps, useSwitch, VisuallyHidden} from "@nextui-org/react";
 import {useTheme} from "next-themes";
